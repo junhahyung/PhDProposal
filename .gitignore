@@ -1,0 +1,6 @@
+.DS_Store
+.claude/
+extracted_images/
+extracted_media/
+pdf_pages/
+_slide_renders/
